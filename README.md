@@ -63,13 +63,17 @@ To run WhisperNet locally, follow these steps:
    git clone https://github.com/yourusername/whisper-net.git
    cd whisper-net
 2. Install dependencies:
+   ```bash
    npm install
-3. Set up environment variables:
+4. Set up environment variables:
     Create a .env.local file in the root directory and add your environment variables (e.g., MongoDB URI, Cloudinary API keys, etc.).
-4. Run the development server:
+5. Run the development server:
+   ```bash
    npm run dev
-5. Open your browser and navigate to http://localhost:3000.
-6. Contributing
+7. Open your browser and navigate to
+   ```bash
+   http://localhost:3000.
+9. Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 License
