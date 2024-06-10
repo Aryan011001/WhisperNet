@@ -41,11 +41,3 @@ To run WhisperNet locally, follow these steps:
 7. Open your browser and navigate to
    ```bash
    http://localhost:3000.
-9. Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-Contact
-For questions or suggestions, feel free to open an issue or contact the project maintainer at [your-email@example.com].
